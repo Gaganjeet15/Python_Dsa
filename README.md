@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -19,6 +20,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0374-guess-number-higher-or-lower) |
