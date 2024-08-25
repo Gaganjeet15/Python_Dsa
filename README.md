@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@
 | [0162-find-peak-element](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0374-guess-number-higher-or-lower) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
