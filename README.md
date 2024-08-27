@@ -55,4 +55,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [1542-consecutive-characters](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1542-consecutive-characters) |
 <!---LeetCode Topics End-->
