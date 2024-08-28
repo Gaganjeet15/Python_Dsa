@@ -20,6 +20,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2698-find-the-array-concatenation-value) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3194-find-words-containing-character) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
