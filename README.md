@@ -20,6 +20,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3194-find-words-containing-character) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Interactive
 |  |
 | ------- |
@@ -70,4 +72,5 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0027-remove-element) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 <!---LeetCode Topics End-->
