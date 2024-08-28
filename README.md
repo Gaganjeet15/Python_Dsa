@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
+| [2383-add-two-integers](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
