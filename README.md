@@ -19,6 +19,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3194-find-words-containing-character](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [1542-consecutive-characters](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1542-consecutive-characters) |
+| [3194-find-words-containing-character](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
