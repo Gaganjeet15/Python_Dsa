@@ -3,8 +3,8 @@ class Solution {
 
         int count = 0;
         
-        for (int i = 0; i < hours.length; i++){
-            if (hours[i] >= target){
+        for (int x : hours){
+            if (x >= target){
                 count++;
             }
         }
