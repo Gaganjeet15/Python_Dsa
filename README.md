@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [2698-find-the-array-concatenation-value](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2698-find-the-array-concatenation-value) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
