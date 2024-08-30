@@ -18,6 +18,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2698-find-the-array-concatenation-value) |
@@ -86,4 +87,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0643-maximum-average-subarray-i) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
