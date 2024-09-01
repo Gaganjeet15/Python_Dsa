@@ -96,4 +96,9 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
