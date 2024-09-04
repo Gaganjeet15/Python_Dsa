@@ -90,6 +90,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2698-find-the-array-concatenation-value](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2698-find-the-array-concatenation-value) |
 ## Sliding Window
 |  |
@@ -108,6 +109,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
