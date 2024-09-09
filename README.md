@@ -50,6 +50,7 @@
 | [0001-two-sum](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0782-jewels-and-stones) |
 | [1542-consecutive-characters](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1542-consecutive-characters) |
 | [3194-find-words-containing-character](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
