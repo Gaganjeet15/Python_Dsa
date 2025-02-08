@@ -3,7 +3,7 @@ public:
     bool checkRecord(string s) {
 
         int a =0;
-        int l =0;
+
         for(int i = 0; i < s.size(); i++){
             if(s[i] == 'A'){
                 a+=1;                
