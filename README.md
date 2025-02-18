@@ -78,6 +78,7 @@
 | [0551-student-attendance-record-i](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0782-jewels-and-stones) |
 | [1542-consecutive-characters](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1542-consecutive-characters) |
+| [1797-goal-parser-interpretation](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1797-goal-parser-interpretation) |
 | [3194-find-words-containing-character](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3379-score-of-a-string) |
 ## Two Pointers
