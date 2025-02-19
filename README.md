@@ -20,6 +20,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1944-truncate-sentence](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1944-truncate-sentence) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2698-find-the-array-concatenation-value) |
@@ -81,6 +82,7 @@
 | [1542-consecutive-characters](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1542-consecutive-characters) |
 | [1797-goal-parser-interpretation](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1944-truncate-sentence) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Gaganjeet15/Python_Dsa/tree/master/3379-score-of-a-string) |
 ## Two Pointers
@@ -97,6 +99,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2698-find-the-array-concatenation-value](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2698-find-the-array-concatenation-value) |
 ## Sliding Window
