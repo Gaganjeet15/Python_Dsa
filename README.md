@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
@@ -77,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0782-jewels-and-stones) |
 | [1542-consecutive-characters](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1542-consecutive-characters) |
@@ -99,6 +101,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2698-find-the-array-concatenation-value](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2698-find-the-array-concatenation-value) |
