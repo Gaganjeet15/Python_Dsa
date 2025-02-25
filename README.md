@@ -19,6 +19,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -82,6 +83,7 @@
 | [0551-student-attendance-record-i](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0782-jewels-and-stones) |
 | [1542-consecutive-characters](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1542-consecutive-characters) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/Gaganjeet15/Python_Dsa/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
