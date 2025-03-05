@@ -52,6 +52,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0782-jewels-and-stones) |
 ## Math
@@ -68,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0268-missing-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaganjeet15/Python_Dsa/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -79,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/Gaganjeet15/Python_Dsa/tree/master/0782-jewels-and-stones) |
